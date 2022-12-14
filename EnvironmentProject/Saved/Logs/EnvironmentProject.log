@@ -4987,3 +4987,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.14-01.34.05:079][477]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2022.12.14-01.34.05:079][477]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2022.12.14-01.34.05:079][477]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.12.14-01.34.06:463][477]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.12.14-01.34.06:503][477]LogExit: Exiting.
+[2022.12.14-01.34.06:514][477]Log file closed, 12/13/22 19:34:06
