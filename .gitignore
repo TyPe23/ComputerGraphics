@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+EnvironmentProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+EnvironmentProject/Saved/Logs/EnvironmentProject.log
