@@ -3212,3 +3212,1302 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.18-00.50.15:044][331]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.11% of total time (compiled   11 times, average 1.42 sec, max 2.05 sec, min 0.64 sec)
 [2022.12.18-00.50.15:044][331]LogShaderCompilers: Display: ================================================
 [2022.12.18-00.51.30:786][535]LogDerivedDataCache: C:/Users/typed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:55.160 and deleted 0 files with total size 0 MiB. Scanned 61260 files in 55126 folders with total size 6289 MiB.
+[2022.12.18-00.51.54:614][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.18-00.52.26:242][914]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.52.37:589][769]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-00.52.37:628][769]LogLevel: Error: Failed to load Actor for External Actor Package /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q
+[2022.12.18-00.52.37:636][769]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.12.18-00.52.37:636][769]LogObjectTools: Currently 4 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.12.18-00.52.37:648][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.18-00.52.42:911][769]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.52.42:916][769]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.52.42:916][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.52.42:971][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.18-00.52.42:980][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.12.18-00.52.42:987][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.18-00.52.43:016][769]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2022.12.18-00.52.56:794][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.18-00.53.06:516][853]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.53.06:534][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.18-00.53.06:542][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.12.18-00.53.06:550][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.18-00.53.27:891][620]LogSlate: Took 0.001048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.18-00.53.27:912][620]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Colors.Foreground'.'
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: ================================================
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: Total job queries 788, among them cache hits 132 (16.75%)
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: Tracking 653 distinct input hashes that result in 418 distinct outputs (64.01%)
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: RAM used: 5.60 MB (0.01 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.46%
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: Shaders Compiled: 271
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: Jobs assigned 274, completed 271 (98.91%)
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: Average time worker was idle: 293.16 s
+[2022.12.18-00.53.28:646][650]LogShaderCompilers: Display: Time job spent in pending queue: average 4.15 s, longest 17.45 s
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Job execution time: average 7.02 s, max 13.84 s
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Job life time (pending + execution): average 11.22 s, max 18.18
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.65 s
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 3.11 jobs/batch
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Average processing rate: 6.21 jobs/sec
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Total thread time: 305.60 s
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Total thread preprocess time: 11.97 s
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Percentage time preprocessing: 3.92%
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Effective parallelization: 7.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 2.13 sec, max 2.24 sec, min 1.90 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 1.94 sec, max 2.06 sec, min 1.88 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.82 sec, max 1.94 sec, min 1.60 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:                                               FHWRasterizePS - 10.40% of total time (compiled   42 times, average 0.76 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 7.44% of total time (compiled   21 times, average 1.08 sec, max 1.85 sec, min 0.82 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.22% of total time (compiled   11 times, average 1.45 sec, max 2.03 sec, min 0.75 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.19% of total time (compiled   11 times, average 1.44 sec, max 2.01 sec, min 0.74 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.10% of total time (compiled   11 times, average 1.42 sec, max 2.05 sec, min 0.64 sec)
+[2022.12.18-00.53.28:647][650]LogShaderCompilers: Display: ================================================
+[2022.12.18-00.53.52:153][956]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.12.18-00.53.52:156][956]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.12.18-00.54.28:191][536]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-00.54.29:028][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.18-00.54.31:053][536]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.54.31:096][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.18-00.54.31:105][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.12.18-00.54.31:113][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.18-00.54.56:766][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.18-00.55.02:112][543]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.55.02:127][543]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_ThroneRoom.BP_ThroneRoom
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_Terrace.BP_Terrace
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_L_Hallway.BP_L_Hallway
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_Lantern.BP_Lantern
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_Library_NoDoor.BP_KnightCastle_Library_NoDoor
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_Library.BP_KnightCastle_Library
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_Hallway_NoDoor.BP_KnightCastle_Hallway_NoDoor
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_Hallway.BP_KnightCastle_Hallway
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_DockRoom_NoDoor2.BP_KnightCastle_DockRoom_NoDoor2
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_DockRoom_NoDoor.BP_KnightCastle_DockRoom_NoDoor
+	Asset Type: Blueprint
+[2022.12.18-00.55.02:672][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.18-00.55.02:680][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.18-00.55.02:688][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.18-00.55.08:405][ 28]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-00.55.08:464][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_Castle': Can't find file.
+[2022.12.18-00.55.08:464][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_Castle'
+[2022.12.18-00.55.08:464][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_ExtCastle': Can't find file.
+[2022.12.18-00.55.08:464][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_ExtCastle'
+[2022.12.18-00.55.08:464][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_Lantern': Can't find file.
+[2022.12.18-00.55.08:464][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_Lantern'
+[2022.12.18-00.55.08:465][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_Terrace': Can't find file.
+[2022.12.18-00.55.08:465][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\TerrainDemo.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_Terrace'
+[2022.12.18-00.55.09:617][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\InteriorDemo_NEW.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_DockRoom_NoDoor2': Can't find file.
+[2022.12.18-00.55.09:617][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\InteriorDemo_NEW.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_DockRoom_NoDoor2'
+[2022.12.18-00.55.09:618][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\InteriorDemo_NEW.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_Library_NoDoor': Can't find file.
+[2022.12.18-00.55.09:618][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\InteriorDemo_NEW.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_KnightCastle_Library_NoDoor'
+[2022.12.18-00.55.09:618][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\InteriorDemo_NEW.umap: Failed to load '/Game/Assets/EnvironmentPack1/Blueprints/BP_L_Hallway': Can't find file.
+[2022.12.18-00.55.09:618][ 28]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\InteriorDemo_NEW.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/EnvironmentPack1/Blueprints/BP_L_Hallway'
+[2022.12.18-00.55.09:729][ 28]LogObjectTools: Deleting 4 worlds: /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo, /Game/Assets/EnvironmentPack1/Maps/Overview_EnvPack_1.Overview_EnvPack_1, /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW, /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo
+[2022.12.18-00.55.09:729][ 28]LogObjectTools: Currently 4 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.12.18-00.55.09:748][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.18-00.55.17:804][ 28]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.55.17:824][ 28]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/TerrainDemo_BuiltData.TerrainDemo_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/Overview_EnvPack_1_BuiltData.Overview_EnvPack_1_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/Overview_EnvPack_1.Overview_EnvPack_1
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW_BuiltData.InteriorDemo_NEW_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_BuiltData.InteriorDemo_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/LevelContent/Architecture/T_MeterGrid_01_M.T_MeterGrid_01_M
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/EnvironmentPack1/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+	Asset Type: StaticMesh
+[2022.12.18-00.55.19:034][ 28]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack1\Maps\LevelContent\Architecture\M_CycRoom_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-00.55.19:035][ 28]LogMaterial: Warning: M_CycRoom_01: Requesting an invalid TextureIndex! (0 / 0)
+[2022.12.18-00.55.19:291][ 28]LogStaticMesh: Display: Building static mesh SM_CycRoom_01...
+[2022.12.18-00.55.19:321][ 28]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/EnvironmentPack1/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2022.12.18-00.55.19:581][ 28]LogWorld: UWorld::CleanupWorld for TerrainDemo, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.55.19:581][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.55.19:771][ 28]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.12.18-00.55.19:900][ 28]LogWorld: UWorld::CleanupWorld for Overview_EnvPack_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.55.19:900][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.55.20:158][ 28]LogWorld: UWorld::CleanupWorld for InteriorDemo_NEW, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.55.20:159][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.55.20:427][ 28]LogWorld: UWorld::CleanupWorld for InteriorDemo, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.55.20:427][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.55.26:231][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.18-00.55.26:241][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.18-00.55.26:249][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern2_5
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern3_8
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern4_11
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern5_14
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern6_17
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Castle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Castle_9
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern2_5
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern3_8
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern4_11
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern5_14
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern6_17
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Castle_Back': BP_Castle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Castle_9
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Castle_Front': BP_Castle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Castle_9
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Castle_Terrain': BP_Castle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Castle_9
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_A': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_B': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_B_W1': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_C1': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_D': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:286][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_E': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_F': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastleRock_A': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastleRock_Pit': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_A': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_B': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_B_W1': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_C1': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_D': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_E': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastle_F': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastleRock_A': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ExtCastleRock_Pit': BP_ExtCastle_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_ExtCastle_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern2_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern3_8
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern4_11
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern5_14
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern6_17
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Terrace_A': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Terrace_B': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Terrace_Crates': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Terrace_DLC_ChoiceRoom': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Terrace_Rug': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Terrace_Stairs': BP_Terrace_C /Game/Assets/EnvironmentPack1/Maps/TerrainDemo.TerrainDemo:PersistentLevel.BP_Terrace_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern10
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern11_22
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern12
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern13_26
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern14
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern3_6
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern4
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern5_10
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern6
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern7_14
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern8
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern9_18
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern10
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern11_22
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern12
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern13_26
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern14
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern3_6
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern4
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern5_10
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern6
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern7_14
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern8
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern9_18
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:287][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Ceiling': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Chain': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Door': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Floor': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Hallway': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Pillar01': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Pillar02': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Rug': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Stage': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Windows': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBalcony': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBalcony02': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBookshelves': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBookshelves1': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryFireplace': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryFireplaceSecretDoor': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryFloor': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryGlassDome': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryPillars': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryPillars02': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryRug': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryWalls02': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryWindows': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Alcoves': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_BackWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Balcony': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Ceiling': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_ExitWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Floor': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_LeftSide': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rightside': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rug': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Skylights': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Stairs': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Windows': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Alcoves': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_BackWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Balcony': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Ceiling': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_ExitWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Floor': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_LeftSide': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rightside': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rug': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Skylights': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Stairs': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Windows': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern10
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern11_22
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern12
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern13_26
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern14
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern3_6
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern4
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern5_10
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern6
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern7_14
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern8
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern9_18
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo_NEW.InteriorDemo_NEW:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern10
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern11_22
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern12
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern13_26
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern14
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern2
+[2022.12.18-00.55.26:288][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern3_6
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern4
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern5_10
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern6
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern7_14
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern8
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern9_18
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern10
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern11_22
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern12
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern13_26
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern14
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern3_6
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern4
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern5_10
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern6
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern7_14
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern8
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern9_18
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Ceiling': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Chain': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Door': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Floor': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Hallway': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Pillar01': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Pillar02': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Rug': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Stage': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_DockRoom_Windows': BP_KnightCastle_DockRoom_NoDoor2_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_DockRoom_NoDoor2_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBalcony': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBalcony02': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBookshelves': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryBookshelves1': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryFireplace': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryFireplaceSecretDoor': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryFloor': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryGlassDome': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryPillars': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryPillars02': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryRug': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryWalls02': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_KnightCastle_LibraryWindows': BP_KnightCastle_Library_NoDoor_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_KnightCastle_Library_NoDoor_2
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Alcoves': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_BackWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Balcony': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Ceiling': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_ExitWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Floor': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_LeftSide': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rightside': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rug': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Skylights': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Stairs': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Windows': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway2_5
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Alcoves': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_BackWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Balcony': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Ceiling': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_ExitWall': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Floor': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_LeftSide': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:289][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rightside': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Rug': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Skylights': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Stairs': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_L_Hallway_Windows': BP_L_Hallway_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_L_Hallway3
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern10
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern11_22
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern12
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern13_26
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern14
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern2
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern3_6
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern4
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern5_10
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern6
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern7_14
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern8
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern9_18
+[2022.12.18-00.55.26:290][ 28]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lantern_01': BP_Lantern_C /Game/Assets/EnvironmentPack1/Maps/InteriorDemo.InteriorDemo:PersistentLevel.BP_Lantern_2
+[2022.12.18-00.55.55:046][ 48]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.12.18-00.55.55:049][ 48]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.12.18-00.56.00:101][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.18-00.56.13:356][487]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.56.13:402][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.18-00.56.13:411][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.18-00.56.13:419][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.18-00.56.42:882][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.18-00.56.46:012][572]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.56.46:031][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.18-00.56.46:040][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.12.18-00.56.46:048][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.18-00.57.07:537][248]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-00.57.09:567][248]LogShaderCompilers: Display: ================================================
+[2022.12.18-00.57.09:567][248]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-00.57.09:567][248]LogShaderCompilers: Display: Total job queries 1498, among them cache hits 138 (9.21%)
+[2022.12.18-00.57.09:567][248]LogShaderCompilers: Display: Tracking 1360 distinct input hashes that result in 523 distinct outputs (38.46%)
+[2022.12.18-00.57.09:567][248]LogShaderCompilers: Display: RAM used: 9.98 MB (0.01 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.81%
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Shaders Compiled: 326
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Jobs assigned 326, completed 326 (100.00%)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Average time worker was idle: 227.40 s
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Time job spent in pending queue: average 3.81 s, longest 17.45 s
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Job execution time: average 5.97 s, max 13.84 s
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Job life time (pending + execution): average 9.78 s, max 18.18
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.08 s
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Jobs were issued in 140 batches (only local compilation was used), average 2.33 jobs/batch
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Average processing rate: 6.51 jobs/sec
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Total thread time: 342.27 s
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Total thread preprocess time: 14.08 s
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Effective parallelization: 6.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 2.13 sec, max 2.24 sec, min 1.90 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.79 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.76 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:                                               FHWRasterizePS - 9.28% of total time (compiled   42 times, average 0.76 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.60% of total time (compiled   31 times, average 0.95 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.64% of total time (compiled   21 times, average 1.08 sec, max 1.85 sec, min 0.82 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.66% of total time (compiled   11 times, average 1.45 sec, max 2.03 sec, min 0.75 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 4.64% of total time (compiled   11 times, average 1.44 sec, max 2.01 sec, min 0.74 sec)
+[2022.12.18-00.57.09:568][248]LogShaderCompilers: Display: ================================================
+[2022.12.18-00.57.09:761][248]LogObjectTools: Deleting 4 worlds: /Game/Assets/EnvironmentPack2/Maps/Overview.Overview, /Game/Assets/EnvironmentPack2/Maps/DemoMap3.DemoMap3, /Game/Assets/EnvironmentPack2/Maps/DemoMap2.DemoMap2, /Game/Assets/EnvironmentPack2/Maps/DemoMap1.DemoMap1
+[2022.12.18-00.57.09:761][248]LogObjectTools: Currently 4 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.12.18-00.57.09:806][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.18-00.57.16:220][248]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.57.17:495][248]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/Overview_BuiltData.Overview_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/Overview.Overview
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/DemoMap3_BuiltData.DemoMap3_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/DemoMap3.DemoMap3
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/DemoMap2_BuiltData.DemoMap2_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/DemoMap2.DemoMap2
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/DemoMap1_BuiltData.DemoMap1_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/DemoMap1.DemoMap1
+	Asset Type: World
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/LevelContent/M_EV_Lightbeam_Master_01_Inst.M_EV_Lightbeam_Master_01_Inst
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/EnvironmentPack2/Maps/LevelContent/Architecture/T_MeterGrid_01_M.T_MeterGrid_01_M
+	Asset Type: Texture2D
+[2022.12.18-00.57.18:161][248]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack2\Maps\LevelContent\Architecture\M_CycRoom_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-00.57.18:162][248]LogStaticMesh: Display: Building static mesh SM_CycRoom_01...
+[2022.12.18-00.57.18:189][248]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/EnvironmentPack2/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2022.12.18-00.57.18:220][248]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\EnvironmentPack2\Maps\LevelContent\Architecture\M_CycWall_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-00.57.18:490][248]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.57.18:491][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.57.18:767][248]LogWorld: UWorld::CleanupWorld for DemoMap3, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.57.18:767][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.57.19:037][248]LogWorld: UWorld::CleanupWorld for DemoMap2, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.57.19:037][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.57.19:294][248]LogWorld: UWorld::CleanupWorld for DemoMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.57.19:294][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.57.24:012][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.18-00.57.24:022][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.18-00.57.24:031][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.18-00.57.50:001][956]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle
+[2022.12.18-00.57.50:003][956]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle
+[2022.12.18-00.57.50:003][956]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle as actor: Emitter /Game/Maps/Dungeon.Dungeon:PersistentLevel.Emitter_0
+[2022.12.18-00.57.50:009][956]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle as actor: Emitter /Game/Maps/Dungeon.Dungeon:PersistentLevel.Emitter_0
+[2022.12.18-00.57.50:685][  4]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle
+[2022.12.18-00.57.50:685][  4]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle
+[2022.12.18-00.57.50:688][  4]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle as actor: Emitter /Game/Maps/Dungeon.Dungeon:PersistentLevel.Emitter_2
+[2022.12.18-00.57.50:693][  4]LogActorFactory: Actor Factory spawned ParticleSystem /Game/Assets/EnvironmentPack2/Effects/P_Petals_World_Idle.P_Petals_World_Idle as actor: Emitter /Game/Maps/Dungeon.Dungeon:PersistentLevel.Emitter_2
+[2022.12.18-00.57.58:910][521]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals_C
+[2022.12.18-00.57.58:910][521]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals_C
+[2022.12.18-00.57.58:919][521]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals as actor: BP_Ambient_Petals_C /Game/Maps/Dungeon.Dungeon:PersistentLevel.BP_Ambient_Petals_C_0
+[2022.12.18-00.57.58:927][521]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals as actor: BP_Ambient_Petals_C /Game/Maps/Dungeon.Dungeon:PersistentLevel.BP_Ambient_Petals_C_0
+[2022.12.18-00.57.59:701][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals_C
+[2022.12.18-00.57.59:701][579]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals_C
+[2022.12.18-00.57.59:710][579]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals as actor: BP_Ambient_Petals_C /Game/Maps/Dungeon.Dungeon:PersistentLevel.BP_Ambient_Petals_C_1
+[2022.12.18-00.57.59:718][579]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/EnvironmentPack2/Blueprints/BP_Ambient_Petals.BP_Ambient_Petals as actor: BP_Ambient_Petals_C /Game/Maps/Dungeon.Dungeon:PersistentLevel.BP_Ambient_Petals_C_1
+[2022.12.18-00.58.06:487][ 47]Cmd: DELETE
+[2022.12.18-00.58.06:487][ 47]Cmd: ACTOR DELETE
+[2022.12.18-00.58.06:503][ 47]LogEditorActor: Deleted Actor: BP_Ambient_Petals_C
+[2022.12.18-00.58.06:530][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.18-00.58.06:532][ 47]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.12.18-00.58.45:343][428]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-00.58.47:811][428]LogObjectTools: Deleting 5 worlds: /Game/Assets/EnvironmentPack3/Maps/Overview_EnvPack_3.Overview_EnvPack_3, /Game/Assets/EnvironmentPack3/Maps/DemoMap4.DemoMap4, /Game/Assets/EnvironmentPack3/Maps/DemoMap3.DemoMap3, /Game/Assets/EnvironmentPack3/Maps/DemoMap2.DemoMap2, /Game/Assets/EnvironmentPack3/Maps/DemoMap1.DemoMap1
+[2022.12.18-00.58.47:812][428]LogObjectTools: Currently 11 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.12.18-00.58.47:847][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.18-00.58.53:848][428]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.58.53:851][428]LogWorld: UWorld::CleanupWorld for Overview_EnvPack_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.58.53:852][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.58.53:854][428]LogWorld: UWorld::CleanupWorld for DemoMap4, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.58.53:855][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.58.53:856][428]LogWorld: UWorld::CleanupWorld for DemoMap3, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.58.53:856][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.58.53:857][428]LogWorld: UWorld::CleanupWorld for DemoMap2, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.58.53:857][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.58.53:858][428]LogWorld: UWorld::CleanupWorld for DemoMap1, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-00.58.53:858][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-00.58.54:396][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.18-00.58.54:406][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.18-00.58.54:416][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.18-00.59.09:638][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.18-00.59.15:800][742]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.59.15:840][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.18-00.59.15:850][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.18-00.59.15:859][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.18-00.59.28:306][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.18-00.59.34:383][754]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-00.59.35:864][754]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Assets/EnvironmentPack3/Blueprints/BP_Hideout.BP_Hideout
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack3/Blueprints/BP_Gem.BP_Gem
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack3/Blueprints/BP_Lab.BP_Lab
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack3/Blueprints/BP_DesertCliffs.BP_DesertCliffs
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/EnvironmentPack3/Blueprints/BP_DesertBuilding.BP_DesertBuilding
+	Asset Type: Blueprint
+[2022.12.18-00.59.36:268][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.12.18-00.59.37:561][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.18-00.59.37:571][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.18-00.59.37:580][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.18-00.59.41:571][  2]Cmd: DELETE
+[2022.12.18-00.59.41:571][  2]Cmd: ACTOR DELETE
+[2022.12.18-00.59.41:586][  2]LogEditorActor: Deleted Actor: Emitter
+[2022.12.18-00.59.41:598][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.12.18-00.59.41:600][  2]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.12.18-00.59.43:573][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.18-00.59.44:649][150]LogSlate: Window 'Save Content' being destroyed
+[2022.12.18-00.59.44:654][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.18-00.59.44:705][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Dungeon" FILE="../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Maps/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.18-00.59.44:715][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.18-00.59.45:017][150]LogSavePackage: Moving output files for package: /Game/Maps/Dungeon
+[2022.12.18-00.59.45:018][150]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Dungeon5FAD96B0469A002060ED999F38638EF5.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Maps/Dungeon.umap'
+[2022.12.18-00.59.45:032][150]LogFileHelpers: No new changes to save!
+[2022.12.18-00.59.45:032][150]LogFileHelpers: Saving map 'Dungeon' took 0.328
+[2022.12.18-00.59.45:061][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 406 ms (total: 19.8 sec)
+[2022.12.18-00.59.45:068][150]AssetCheck: New page: Asset Save: Dungeon
+[2022.12.18-00.59.45:068][150]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Dungeon.Dungeon
+[2022.12.18-01.00.21:938][519]LogSlate: Took 0.002855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.18-01.00.21:972][519]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18417751648590338967
+[2022.12.18-01.00.21:972][519]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.12.18-01.00.37:321][505]LogSlate: Window 'Size Map' being destroyed
+[2022.12.18-01.00.37:325][505]LogSlate: Window 'Size Map' being destroyed
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Total job queries 2910, among them cache hits 370 (12.71%)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Tracking 2536 distinct input hashes that result in 663 distinct outputs (26.14%)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: RAM used: 17.26 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.40%
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Shaders Compiled: 366
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Jobs assigned 368, completed 366 (99.46%)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Average time worker was idle: 180.96 s
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Time job spent in pending queue: average 3.41 s, longest 17.45 s
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Job execution time: average 5.40 s, max 13.84 s
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Job life time (pending + execution): average 8.83 s, max 18.18
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 56.35 s
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Jobs were issued in 182 batches (only local compilation was used), average 2.02 jobs/batch
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Average processing rate: 6.50 jobs/sec
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Total thread time: 368.08 s
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Total thread preprocess time: 15.69 s
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Percentage time preprocessing: 4.26%
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Effective parallelization: 6.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 2.13 sec, max 2.24 sec, min 1.90 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.79 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.76 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.51% of total time (compiled   39 times, average 0.90 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:                                               FHWRasterizePS - 8.63% of total time (compiled   42 times, average 0.76 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 6.18% of total time (compiled   21 times, average 1.08 sec, max 1.85 sec, min 0.82 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.10% of total time (compiled   23 times, average 0.98 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.65% of total time (compiled   33 times, average 0.63 sec, max 0.74 sec, min 0.51 sec)
+[2022.12.18-01.00.51:584][740]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.01.00:522][424]LogObjectTools: Deleting 1 worlds: /Game/Assets/FXVarietyPack/Map/Overview.Overview
+[2022.12.18-01.01.00:522][424]LogObjectTools: Currently 16 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2022.12.18-01.01.00:557][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.18-01.01.03:263][424]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.01.03:518][424]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/FXVarietyPack/Map/Overview.Overview
+	Asset Type: World
+[2022.12.18-01.01.03:815][424]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.01.03:815][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.01.04:150][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.18-01.01.04:161][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.18-01.01.04:171][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.18-01.01.46:229][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.18-01.02.02:212][920]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.02.02:278][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.18-01.02.02:290][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.18-01.02.02:299][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.18-01.02.33:345][468]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-01.02.35:041][468]LogMaterial: Display: Material /Game/Assets/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/Materials/M_Env_Fire_Magma2.M_Env_Fire_Magma2 needed to have new flag set bUsedWithNanite !
+[2022.12.18-01.02.35:068][468]MapCheck: Warning: M_Env_Fire_Magma2 Material /Game/Assets/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/Materials/M_Env_Fire_Magma2.M_Env_Fire_Magma2 was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.12.18-01.02.35:163][468]LogObjectTools: Deleting 2 worlds: /Game/Assets/InfinityBladeFireLands/Maps/Overview.Overview, /Game/Assets/InfinityBladeFireLands/Maps/Forge.Forge
+[2022.12.18-01.02.35:164][468]LogObjectTools: Currently 16 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2022.12.18-01.02.35:202][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.12.18-01.02.42:459][468]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.02.42:462][468]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.02.42:463][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.02.42:463][468]LogWorld: UWorld::CleanupWorld for Forge, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.02.42:464][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.02.44:390][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.18-01.02.44:402][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.18-01.02.44:412][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.18-01.02.51:818][ 69]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-01.02.53:131][ 69]LogSkeletalMesh: Building Skeletal Mesh SK_Env_Ice_Deco2_BlowingFlag...
+[2022.12.18-01.02.53:132][ 69]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag.SK_Env_Ice_Deco2_BlowingFlag
+[2022.12.18-01.02.53:133][ 69]LogSkeletalMesh: Building Skeletal Mesh SK_Env_Ice_Deco2_BlowingFlag3...
+[2022.12.18-01.02.53:133][ 69]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3
+[2022.12.18-01.02.53:236][ 69]LogObjectTools: Deleting 2 worlds: /Game/Assets/InfinityBladeGrassLands/Maps/Overview.Overview, /Game/Assets/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins
+[2022.12.18-01.02.53:236][ 69]LogObjectTools: Currently 16 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2022.12.18-01.02.53:255][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.12.18-01.03.01:975][ 69]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.03.01:978][ 69]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.03.01:979][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.03.01:981][ 69]LogWorld: UWorld::CleanupWorld for ElvenRuins, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.03.01:983][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.03.07:169][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.18-01.03.07:191][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.18-01.03.07:203][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.18-01.03.24:567][876]LogSlate: Window 'Message Log' being destroyed
+[2022.12.18-01.03.24:570][876]LogSlate: Window 'Message Log' being destroyed
+[2022.12.18-01.03.52:844][108]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-01.03.54:790][108]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Env_Ice_Deco2_BlowingFlag3) ...
+[2022.12.18-01.03.55:557][108]LogSkeletalMesh: Building Skeletal Mesh SK_Env_Ice_Deco2_BlowingFlag3...
+[2022.12.18-01.03.55:557][108]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/InfinityBladeIceLands/Environments/Ice/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3
+[2022.12.18-01.03.55:572][108]LogObjectTools: Deleting 2 worlds: /Game/Assets/InfinityBladeIceLands/Maps/Overview.Overview, /Game/Assets/InfinityBladeIceLands/Maps/FrozenCove.FrozenCove
+[2022.12.18-01.03.55:572][108]LogObjectTools: Currently 16 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2022.12.18-01.03.55:613][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.12.18-01.04.01:957][108]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.04.01:960][108]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.04.01:960][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.04.01:963][108]LogWorld: UWorld::CleanupWorld for FrozenCove, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.04.01:964][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Total job queries 3030, among them cache hits 375 (12.38%)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Tracking 2653 distinct input hashes that result in 731 distinct outputs (27.55%)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: RAM used: 18.03 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.47%
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Shaders Compiled: 447
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Jobs assigned 447, completed 447 (100.00%)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Average time worker was idle: 131.43 s
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Time job spent in pending queue: average 3.04 s, longest 17.45 s
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Job execution time: average 4.58 s, max 13.84 s
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Job life time (pending + execution): average 7.62 s, max 18.18
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 68.73 s
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Jobs were issued in 261 batches (only local compilation was used), average 1.71 jobs/batch
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Average processing rate: 6.50 jobs/sec
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Total thread time: 424.78 s
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Total thread preprocess time: 18.97 s
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Percentage time preprocessing: 4.47%
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Effective parallelization: 6.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 2.13 sec, max 2.24 sec, min 1.90 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.79 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.76 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.34% of total time (compiled   51 times, average 0.86 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.24% of total time (compiled   39 times, average 0.90 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                                               FHWRasterizePS - 7.48% of total time (compiled   42 times, average 0.76 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.21% of total time (compiled   35 times, average 0.75 sec, max 0.86 sec, min 0.59 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 5.35% of total time (compiled   21 times, average 1.08 sec, max 1.85 sec, min 0.82 sec)
+[2022.12.18-01.04.05:047][108]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.04.05:672][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.18-01.04.05:692][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.18-01.04.05:703][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.18-01.04.16:695][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.18-01.04.28:890][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.04.30:401][ 34]LogUObjectGlobals: Force Deleting 16 Package(s):
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst9.BG_inst9
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst8.BG_inst8
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst7.BG_inst7
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst6.BG_inst6
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst5.BG_inst5
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst4.BG_inst4
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst3.BG_inst3
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst2.BG_inst2
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst1.BG_inst1
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/M5VFXVOL2/Demo/Materials/BG_Grid_Mat.BG_Grid_Mat
+	Asset Type: Material
+[2022.12.18-01.04.30:716][ 34]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Demo\Materials\20M.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.04.30:912][ 34]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Demo\Materials\BG_Grid_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.04.30:913][ 34]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Demo\Materials\BG_Grid_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.04.30:914][ 34]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Demo\Materials\BG_Grid_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.04.30:916][ 34]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Demo\Materials\BG_Grid_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.04.36:461][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.18-01.04.36:474][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.18-01.04.36:485][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.12.18-01.04.41:209][467]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-01.04.41:221][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/20M': Can't find file.
+[2022.12.18-01.04.41:221][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/20M'
+[2022.12.18-01.04.41:226][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst1': Can't find file.
+[2022.12.18-01.04.41:227][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst1'
+[2022.12.18-01.04.41:227][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst3': Can't find file.
+[2022.12.18-01.04.41:227][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst3'
+[2022.12.18-01.04.42:690][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Meshes/BG_test_mesh': Can't find file.
+[2022.12.18-01.04.42:690][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Meshes/BG_test_mesh'
+[2022.12.18-01.04.42:690][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Meshes/Floor': Can't find file.
+[2022.12.18-01.04.42:690][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Ref_Map.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Meshes/Floor'
+[2022.12.18-01.04.48:147][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Materials\Master\Debris_Mat.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Textures/Grid_Tex': Can't find file.
+[2022.12.18-01.04.48:147][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Materials\Master\Debris_Mat.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Textures/Grid_Tex'
+[2022.12.18-01.04.48:147][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Materials\Etc\debris_bd.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Textures/desert': Can't find file.
+[2022.12.18-01.04.48:148][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Materials\Etc\debris_bd.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Textures/desert'
+[2022.12.18-01.04.48:265][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\debris\b_debris_01.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst6': Can't find file.
+[2022.12.18-01.04.48:265][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\debris\b_debris_01.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst6'
+[2022.12.18-01.04.48:453][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\BF_mesh_firewood.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst8': Can't find file.
+[2022.12.18-01.04.48:453][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\BF_mesh_firewood.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst8'
+[2022.12.18-01.04.48:457][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\candle.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst7': Can't find file.
+[2022.12.18-01.04.48:457][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\candle.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst7'
+[2022.12.18-01.04.48:464][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\Car_frac\Car_rf.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst4': Can't find file.
+[2022.12.18-01.04.48:464][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\Car_frac\Car_rf.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst4'
+[2022.12.18-01.04.48:467][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\OilTank_frac\oiltank_rf.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst5': Can't find file.
+[2022.12.18-01.04.48:467][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\OilTank_frac\oiltank_rf.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst5'
+[2022.12.18-01.04.49:295][467]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Materials\Master\Debris_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.12.18-01.04.49:959][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Blueprints_Map.umap: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst2': Can't find file.
+[2022.12.18-01.04.49:959][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Maps\N_M5_Vol2_Blueprints_Map.umap: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst2'
+[2022.12.18-01.04.50:677][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\BF_mesh_Barrel.uasset: Failed to load '/Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst9': Can't find file.
+[2022.12.18-01.04.50:677][467]LogLinker: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\BF_mesh_Barrel.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/M5VFXVOL2/Demo/Materials/BG_inst9'
+[2022.12.18-01.04.54:408][467]LogSkeletalMesh: Display: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Meshes\Stair\stair2_stair2.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.12.18-01.04.54:408][467]LogSkeletalMesh: Building Skeletal Mesh stair2_stair2...
+[2022.12.18-01.04.54:409][467]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/M5VFXVOL2/Props/Meshes/Stair/stair2_stair2.stair2_stair2
+[2022.12.18-01.04.55:711][467]LogObjectTools: Deleting 6 worlds: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Ref_Map.N_M5_Vol2_Ref_Map, /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Guide_Map.N_M5_Vol2_Guide_Map, /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Blueprints_Map.N_M5_Vol2_Blueprints_Map, /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Ref_Map.M5_Vol2_Ref_Map, /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Guide_Map.M5_Vol2_Guide_Map, /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Blueprints_Map.M5_Vol2_Blueprints_Map
+[2022.12.18-01.04.55:711][467]LogObjectTools: Currently 16 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2022.12.18-01.04.55:743][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.18-01.05.27:539][467]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.05.30:550][467]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Ref_Map_BuiltData.N_M5_Vol2_Ref_Map_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Ref_Map.N_M5_Vol2_Ref_Map
+	Asset Type: World
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Guide_Map_BuiltData.N_M5_Vol2_Guide_Map_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Guide_Map.N_M5_Vol2_Guide_Map
+	Asset Type: World
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Blueprints_Map_BuiltData.N_M5_Vol2_Blueprints_Map_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/N_M5_Vol2_Blueprints_Map.N_M5_Vol2_Blueprints_Map
+	Asset Type: World
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Ref_Map_BuiltData.M5_Vol2_Ref_Map_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Ref_Map.M5_Vol2_Ref_Map
+	Asset Type: World
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Guide_Map_BuiltData.M5_Vol2_Guide_Map_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Assets/M5VFXVOL2/Maps/M5_Vol2_Guide_Map.M5_Vol2_Guide_Map
+	Asset Type: World
+[2022.12.18-01.05.33:967][467]LogWorld: UWorld::CleanupWorld for N_M5_Vol2_Ref_Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.05.33:968][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.05.36:348][467]LogWorld: UWorld::CleanupWorld for N_M5_Vol2_Guide_Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.05.36:348][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.05.38:708][467]LogWorld: UWorld::CleanupWorld for N_M5_Vol2_Blueprints_Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.05.38:709][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.05.41:086][467]LogWorld: UWorld::CleanupWorld for M5_Vol2_Ref_Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.05.41:087][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.05.43:453][467]LogWorld: UWorld::CleanupWorld for M5_Vol2_Guide_Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.05.43:453][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.05.45:794][467]LogWorld: UWorld::CleanupWorld for M5_Vol2_Blueprints_Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.05.45:795][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.06.01:071][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.18-01.06.01:102][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.18-01.06.01:129][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.18-01.06.16:284][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.18-01.08.04:471][575]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.08.12:140][575]LogUObjectGlobals: Force Deleting 32 Package(s):
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/Stair/stair2_stair2.stair2_stair2
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/Stair/stair2_stair2_Skeleton.stair2_stair2_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/Stair/stair2_Physics.stair2_Physics
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/stair.stair
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/grass_mesh.grass_mesh
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Materials/Grass_Mat.Grass_Mat
+	Asset Type: Material
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/textures/fo_grass_N.fo_grass_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/textures/fo_grass.fo_grass
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/Box_B.Box_B
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/M5VFXVOL2/Props/Meshes/BF_mesh_brazier.BF_mesh_brazier
+	Asset Type: StaticMesh
+[2022.12.18-01.08.13:676][575]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (stair2_stair2) ...
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Total job queries 3066, among them cache hits 375 (12.23%)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Tracking 2689 distinct input hashes that result in 748 distinct outputs (27.82%)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: RAM used: 18.28 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.49%
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Shaders Compiled: 449
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Jobs assigned 449, completed 449 (100.00%)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Average time worker was idle: 132.71 s
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Time job spent in pending queue: average 3.02 s, longest 17.45 s
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Job execution time: average 4.57 s, max 13.84 s
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Job life time (pending + execution): average 7.59 s, max 18.18
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.60 s
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Jobs were issued in 263 batches (only local compilation was used), average 1.71 jobs/batch
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Average processing rate: 6.45 jobs/sec
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Total thread time: 425.99 s
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Total thread preprocess time: 19.05 s
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Percentage time preprocessing: 4.47%
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Effective parallelization: 6.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 2.13 sec, max 2.24 sec, min 1.90 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.79 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.76 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.31% of total time (compiled   51 times, average 0.86 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.22% of total time (compiled   39 times, average 0.90 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                                               FHWRasterizePS - 7.46% of total time (compiled   42 times, average 0.76 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.33% of total time (compiled   36 times, average 0.75 sec, max 0.86 sec, min 0.59 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 5.34% of total time (compiled   21 times, average 1.08 sec, max 1.85 sec, min 0.82 sec)
+[2022.12.18-01.08.13:677][575]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.08.14:553][575]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Materials\Grass_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.08.14:554][575]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\M5VFXVOL2\Props\Materials\Grass_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.08.14:726][575]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (oiltank_rf) ...
+[2022.12.18-01.08.14:864][575]LogStaticMesh: Display: Building static mesh grass_mesh...
+[2022.12.18-01.08.14:985][575]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/M5VFXVOL2/Props/Meshes/grass_mesh.grass_mesh
+[2022.12.18-01.09.34:895][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.12.18-01.09.34:925][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.18-01.09.34:953][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.18-01.09.48:278][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.18-01.09.48:281][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Dungeon' took 0.036
+[2022.12.18-01.09.48:283][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3] ([1] browsable assets)...
+[2022.12.18-01.09.48:283][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3]
+[2022.12.18-01.09.48:356][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3_Auto3
+[2022.12.18-01.09.48:356][600]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/0_NCandleFire_pt3_Auto337CA2F064B9410CA8F8800A398DA78C0.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3_Auto3.uasset'
+[2022.12.18-01.09.48:358][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03] ([1] browsable assets)...
+[2022.12.18-01.09.48:358][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03]
+[2022.12.18-01.09.49:323][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03_Auto3
+[2022.12.18-01.09.49:323][600]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/NFire_Exp_03_Auto3754B37294F213290442C3E92F795AA20.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03_Auto3.uasset'
+[2022.12.18-01.09.49:324][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03] ([1] browsable assets)...
+[2022.12.18-01.09.49:326][600]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03.Fire_Exp_03]
+[2022.12.18-01.09.49:326][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03]
+[2022.12.18-01.09.49:366][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03_Auto3
+[2022.12.18-01.09.49:366][600]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Fire_Exp_03_Auto31CC077834D8BD876BA0450943A41530D.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03_Auto3.uasset'
+[2022.12.18-01.09.49:368][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00] ([1] browsable assets)...
+[2022.12.18-01.09.49:368][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00]
+[2022.12.18-01.09.50:404][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00_Auto3
+[2022.12.18-01.09.50:404][600]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/NFire_Exp_00_Auto35B2CF8164EDBC6264FC70583C5D40363.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00_Auto3.uasset'
+[2022.12.18-01.09.50:405][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00] ([1] browsable assets)...
+[2022.12.18-01.09.50:407][600]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00.Fire_Exp_00]
+[2022.12.18-01.09.50:407][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00]
+[2022.12.18-01.09.50:451][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00_Auto3
+[2022.12.18-01.09.50:451][600]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Fire_Exp_00_Auto3782074BF4FF87A132EF0D2AFBFDE6794.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00_Auto3.uasset'
+[2022.12.18-01.09.50:452][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3] ([1] browsable assets)...
+[2022.12.18-01.09.50:454][600]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3.0_CandleFire_pt3]
+[2022.12.18-01.09.50:454][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3]
+[2022.12.18-01.09.50:457][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3_Auto3
+[2022.12.18-01.09.50:457][600]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/0_CandleFire_pt3_Auto35D29C7044DB20EFAE84548B4D6B86440.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3_Auto3.uasset'
+[2022.12.18-01.09.50:458][600]LogFileHelpers: Auto-saving content packages took 2.177
+[2022.12.18-01.09.59:950][384]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2022.12.18-01.10.03:473][654]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2022.12.18-01.10.35:862][196]LogSlate: Window 'Content Browser' being destroyed
+[2022.12.18-01.10.35:865][196]LogSlate: Window 'Content Browser' being destroyed
+[2022.12.18-01.10.39:351][567]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.12.18-01.10.39:351][567]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2022.12.18-01.11.20:869][477]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.18-01.11.21:847][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2022.12.18-01.11.21:847][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.12.18-01.11.21:847][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.12.18-01.11.21:847][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.12.18-01.11.21:847][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.12.18-01.11.21:848][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.12.18-01.11.21:848][477]LogBlueprint: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.12.18-01.11.22:580][477]LogMaterial: Display: Material /Game/Assets/SoulCave/Environment/Materials/Rocks/M_Cave_Rock_MASTER_VertexPaint_Moss.M_Cave_Rock_MASTER_VertexPaint_Moss needed to have new flag set bUsedWithNanite !
+[2022.12.18-01.11.22:767][477]MapCheck: Warning: M_Cave_Rock_MASTER_VertexPaint_Moss Material /Game/Assets/SoulCave/Environment/Materials/Rocks/M_Cave_Rock_MASTER_VertexPaint_Moss.M_Cave_Rock_MASTER_VertexPaint_Moss was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: Total job queries 3226, among them cache hits 375 (11.62%)
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: Tracking 2701 distinct input hashes that result in 759 distinct outputs (28.10%)
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: RAM used: 18.38 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.50%
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: Shaders Compiled: 449
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: Jobs assigned 473, completed 449 (94.93%)
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: Average time worker was idle: 142.76 s
+[2022.12.18-01.11.23:445][477]LogShaderCompilers: Display: Time job spent in pending queue: average 2.87 s, longest 17.45 s
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Job execution time: average 4.57 s, max 13.84 s
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Job life time (pending + execution): average 7.59 s, max 18.18
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.60 s
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Jobs were issued in 271 batches (only local compilation was used), average 1.75 jobs/batch
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Average processing rate: 6.45 jobs/sec
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Total thread time: 425.99 s
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Total thread preprocess time: 19.05 s
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Percentage time preprocessing: 4.47%
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Effective parallelization: 6.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 2.13 sec, max 2.24 sec, min 1.90 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 1.79 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.76 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.31% of total time (compiled   51 times, average 0.86 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.22% of total time (compiled   39 times, average 0.90 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                                               FHWRasterizePS - 7.46% of total time (compiled   42 times, average 0.76 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.33% of total time (compiled   36 times, average 0.75 sec, max 0.86 sec, min 0.59 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 5.34% of total time (compiled   21 times, average 1.08 sec, max 1.85 sec, min 0.82 sec)
+[2022.12.18-01.11.23:446][477]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.11.23:495][477]LogObjectTools: Deleting 3 worlds: /Game/Assets/SoulCave/Maps/Overview.Overview, /Game/Assets/SoulCave/Maps/LV_Soul_Cave_Mobile.LV_Soul_Cave_Mobile, /Game/Assets/SoulCave/Maps/LV_Soul_Cave.LV_Soul_Cave
+[2022.12.18-01.11.23:495][477]LogObjectTools: Currently 20 active worlds: /Game/Maps/Dungeon.Dungeon, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18
+[2022.12.18-01.11.23:650][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.12.18-01.11.43:550][477]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.11.43:556][477]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.11.43:556][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.11.43:557][477]LogWorld: UWorld::CleanupWorld for LV_Soul_Cave_Mobile, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.11.43:560][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.11.43:561][477]LogWorld: UWorld::CleanupWorld for LV_Soul_Cave, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-01.11.43:564][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-01.11.45:926][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.12.18-01.11.45:959][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.12.18-01.11.45:988][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.18-01.11.53:147][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.12.18-01.12.07:587][958]LogSlate: Window 'Save Content' being destroyed
+[2022.12.18-01.12.07:592][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.18-01.12.07:659][958]LogSavePackage: Moving output files for package: /Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3
+[2022.12.18-01.12.07:660][958]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/0_CandleFire_pt3D2EFBDAE42E8F7B2B2AC4A9D66385E78.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3.uasset'
+[2022.12.18-01.12.07:732][958]LogSavePackage: Moving output files for package: /Game/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3
+[2022.12.18-01.12.07:732][958]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/0_NCandleFire_pt34FEED3BD43BDFD06280EF3AA5CC1FB5E.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3.uasset'
+[2022.12.18-01.12.07:776][958]LogSavePackage: Moving output files for package: /Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00
+[2022.12.18-01.12.07:777][958]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Fire_Exp_0079BDC0434E0DDC7F9CD75BBFC269CEF6.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00.uasset'
+[2022.12.18-01.12.07:816][958]LogSavePackage: Moving output files for package: /Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03
+[2022.12.18-01.12.07:817][958]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Fire_Exp_039D1B72B44806FFFA275592BD752A7576.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03.uasset'
+[2022.12.18-01.12.08:850][958]LogSavePackage: Moving output files for package: /Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00
+[2022.12.18-01.12.08:850][958]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/NFire_Exp_0046A53C43402E52409950F2A04D0D59BF.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00.uasset'
+[2022.12.18-01.12.09:815][958]LogSavePackage: Moving output files for package: /Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03
+[2022.12.18-01.12.09:816][958]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/NFire_Exp_0314FBF9964AAD2D486E836EB55F9CC416.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03.uasset'
+[2022.12.18-01.12.09:821][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.22 sec (total: 22.0 sec)
+[2022.12.18-01.12.09:851][958]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.18-01.12.09:851][958]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_00.NFire_Exp_00
+[2022.12.18-01.12.09:851][958]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Assets/M5VFXVOL2/Niagara/Explosion/NFire_Exp_03.NFire_Exp_03
+[2022.12.18-01.12.09:851][958]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Assets/M5VFXVOL2/Niagara/Reference/Candlefire/0_NCandleFire_pt3.0_NCandleFire_pt3
+[2022.12.18-01.12.09:851][958]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/Assets/M5VFXVOL2/Particles/Reference/Candlefire/0_CandleFire_pt3.0_CandleFire_pt3
+[2022.12.18-01.12.09:851][958]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_00.Fire_Exp_00
+[2022.12.18-01.12.09:851][958]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/Assets/M5VFXVOL2/Particles/Explosion/Fire_Exp_03.Fire_Exp_03
+[2022.12.18-01.12.25:372][112]LogSlate: Window 'Message Log' being destroyed
+[2022.12.18-01.12.25:375][112]LogSlate: Window 'Message Log' being destroyed
+[2022.12.18-01.12.28:949][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.18-01.13.25:852][452]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.13.25:909][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.12.18-01.13.25:941][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.12.18-01.13.25:970][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.18-01.13.33:673][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.12.18-01.14.38:077][ 86]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Total job queries 3233, among them cache hits 377 (11.66%)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Tracking 2852 distinct input hashes that result in 861 distinct outputs (30.19%)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: RAM used: 19.46 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.58%
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Shaders Compiled: 600
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Jobs assigned 600, completed 600 (100.00%)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Average time worker was idle: 128.14 s
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Time job spent in pending queue: average 3.57 s, longest 17.45 s
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Job execution time: average 4.69 s, max 13.84 s
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Job life time (pending + execution): average 8.26 s, max 18.18
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.58 s
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Jobs were issued in 301 batches (only local compilation was used), average 1.99 jobs/batch
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Average processing rate: 6.93 jobs/sec
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Total thread time: 550.71 s
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Total thread preprocess time: 24.61 s
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Percentage time preprocessing: 4.47%
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Effective parallelization: 6.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 2.04 sec, max 2.24 sec, min 1.86 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 1.82 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.66 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.57 sec, max 2.31 sec, min 0.72 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    9 times, average 1.55 sec, max 2.28 sec, min 0.81 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:                                               FHWRasterizePS - 10.95% of total time (compiled   84 times, average 0.72 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.26% of total time (compiled   52 times, average 0.88 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 7.75% of total time (compiled   42 times, average 1.02 sec, max 1.85 sec, min 0.68 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.66% of total time (compiled   40 times, average 0.92 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.14.38:094][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.90% of total time (compiled   36 times, average 0.75 sec, max 0.86 sec, min 0.59 sec)
+[2022.12.18-01.14.38:095][ 86]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.14.38:154][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.12.18-01.14.38:186][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.12.18-01.14.38:216][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.18-01.14.46:334][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.18-01.15.09:162][727]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.15.09:201][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.12.18-01.15.09:232][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.12.18-01.15.09:261][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.18-01.15.17:902][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.12.18-01.17.45:669][422]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.18.06:501][422]LogUObjectGlobals: Force Deleting 56 Package(s):
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/Water/Textures/T_WaterFoam_02.T_WaterFoam_02
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/Drips/Textures/T_SandStorm_Mask.T_SandStorm_Mask
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/SimpleFogSheet/Textures/T_EV_DustPanner_01.T_EV_DustPanner_01
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/SimpleFogSheet/Material/M_Fogsheet_cheap.M_Fogsheet_cheap
+	Asset Type: Material
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/SimpleFogSheet/Material/MI_FogSheet_Cheap.MI_FogSheet_Cheap
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/SimpleFogSheet/Mesh/SM_SimpleFogSheet.SM_SimpleFogSheet
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/SimpleFogSheet/BP/BP_simpleFogSheet.BP_simpleFogSheet
+	Asset Type: Blueprint
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/Water/Materials/M_RippleFoam_Mobile.M_RippleFoam_Mobile
+	Asset Type: Material
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/GodRay/Materials/M_GodRay.M_GodRay
+	Asset Type: Material
+	Asset Name: /Game/Assets/SoulCave/EffectsMobile/GodRay/Materials/MI_GodRay.MI_GodRay
+	Asset Type: MaterialInstanceConstant
+[2022.12.18-01.18.08:102][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_Soul_Waterfall_Foam02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:109][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_Soul_Waterfall_Foam02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:301][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\SimpleFogSheet\Material\M_Fogsheet_cheap.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:334][422]LogStaticMesh: Display: Building static mesh SM_SimpleFogSheet...
+[2022.12.18-01.18.08:335][422]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/SoulCave/EffectsMobile/SimpleFogSheet/Mesh/SM_SimpleFogSheet.SM_SimpleFogSheet
+[2022.12.18-01.18.08:509][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Water\Materials\M_RippleFoam_Mobile.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:693][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\GodRay\Materials\M_GodRay.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:717][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_Soul_Waterfall_Foam02_Mobile.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:723][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_Soul_Waterfall_Foam02_Mobile.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.08:873][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Water\Materials\M_SplashFoam.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.09:220][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Water\Materials\M_SplashFoam_Unlit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.09:221][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Water\Materials\M_SplashFoam_Unlit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.09:722][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Trash\Materials\M_paper.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.10:802][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Water\Materials\M_RippleFoam.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.10:815][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_Soul_Waterfall_Foam_Mask.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.10:822][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_Soul_Waterfall_Foam_Mask.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.10:925][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Sparks\Materials\M_Single_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.11:038][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Sparks\Materials\M_Smoke_MacroUV_Subtle_Near.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.18.11:200][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Sparks\Materials\M_Spark_Core_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2022.12.18-01.18.11:348][422]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\EffectsMobile\Sparks\Materials\M_Flare_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Total job queries 3245, among them cache hits 379 (11.68%)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Tracking 2862 distinct input hashes that result in 869 distinct outputs (30.36%)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: RAM used: 19.56 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.59%
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Shaders Compiled: 605
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Jobs assigned 605, completed 605 (100.00%)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Average time worker was idle: 131.88 s
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Time job spent in pending queue: average 3.54 s, longest 17.45 s
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Job execution time: average 4.66 s, max 13.84 s
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Job life time (pending + execution): average 8.20 s, max 18.18
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.71 s
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Jobs were issued in 306 batches (only local compilation was used), average 1.98 jobs/batch
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Average processing rate: 6.90 jobs/sec
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Total thread time: 554.41 s
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Total thread preprocess time: 24.83 s
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Percentage time preprocessing: 4.48%
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Effective parallelization: 6.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 2.04 sec, max 2.24 sec, min 1.86 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 1.82 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.66 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.57 sec, max 2.31 sec, min 0.72 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    9 times, average 1.55 sec, max 2.28 sec, min 0.81 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:                                               FHWRasterizePS - 10.88% of total time (compiled   84 times, average 0.72 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.21% of total time (compiled   52 times, average 0.88 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 7.70% of total time (compiled   42 times, average 1.02 sec, max 1.85 sec, min 0.68 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.61% of total time (compiled   40 times, average 0.92 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.11% of total time (compiled   38 times, average 0.74 sec, max 0.86 sec, min 0.59 sec)
+[2022.12.18-01.20.25:341][422]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.20.25:600][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.12.18-01.20.25:632][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.12.18-01.20.25:661][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.18-01.20.32:801][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.12.18-01.23.24:939][961]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.18-01.23.37:168][961]LogUObjectGlobals: Force Deleting 43 Package(s):
+	Asset Name: /Game/Assets/SoulCave/Effects/Textures/Cube/T_CaveMap_Interior_Cube_D.T_CaveMap_Interior_Cube_D
+	Asset Type: TextureCube
+	Asset Name: /Game/Assets/SoulCave/Effects/Textures/Noise/T_brownian_01_M.T_brownian_01_M
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/SoulCave/Effects/Textures/Smoke/T_SmokeBall_03_Perlin.T_SmokeBall_03_Perlin
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/SoulCave/Effects/Materials/Dust/M_Dust_Mote.M_Dust_Mote
+	Asset Type: Material
+	Asset Name: /Game/Assets/SoulCave/Effects/Particles/Dust/P_DustFlow_Mobile.P_DustFlow_Mobile
+	Asset Type: ParticleSystem
+	Asset Name: /Game/Assets/SoulCave/Effects/VectorFields/VF_Tunnel_Movement_2_100.VF_Tunnel_Movement_2_100
+	Asset Type: VectorFieldStatic
+	Asset Name: /Game/Assets/SoulCave/Effects/Particles/Dust/PGPU_Dust_Vec_Fast.PGPU_Dust_Vec_Fast
+	Asset Type: ParticleSystem
+	Asset Name: /Game/Assets/SoulCave/Effects/Textures/Cube/T_CubeNearEntrance.T_CubeNearEntrance
+	Asset Type: TextureCube
+	Asset Name: /Game/Assets/SoulCave/Effects/Textures/Water/T_DropSubUV_A.T_DropSubUV_A
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/SoulCave/Effects/Textures/Water/T_DropSubUV_N.T_DropSubUV_N
+	Asset Type: Texture2D
+[2022.12.18-01.23.38:789][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Dust\M_Dust_Mote.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.23.39:030][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_WaterDrop_SubUV.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.39:430][961]LogParticles: Warning: MaxCount = 1758 for Emitter ParticleSpriteEmitter_0 (/Game/Assets/SoulCave/Effects/Particles/Water/P_WaterFall.P_WaterFall)
+[2022.12.18-01.23.39:434][961]LogParticles: Warning: MaxCount = 1758 for Emitter ParticleSpriteEmitter_2 (/Game/Assets/SoulCave/Effects/Particles/Water/P_WaterFall.P_WaterFall)
+[2022.12.18-01.23.39:439][961]LogParticles: Warning: MaxCount = 1758 for Emitter ParticleSpriteEmitter_7 (/Game/Assets/SoulCave/Effects/Particles/Water/P_WaterFall.P_WaterFall)
+[2022.12.18-01.23.39:443][961]LogParticles: Warning: MaxCount = 4395 for Emitter ParticleSpriteEmitter_8 (/Game/Assets/SoulCave/Effects/Particles/Water/P_WaterFall.P_WaterFall)
+[2022.12.18-01.23.39:448][961]LogParticles: Warning: MaxCount = 3516 for Emitter ParticleSpriteEmitter_9 (/Game/Assets/SoulCave/Effects/Particles/Water/P_WaterFall.P_WaterFall)
+[2022.12.18-01.23.39:850][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Snow\M_Snow_Blowing_Lit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2022.12.18-01.23.40:238][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_ParticleWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.40:369][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_MeshEmitWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.40:370][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_MeshEmitWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.40:372][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_MeshEmitWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.40:373][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_MeshEmitWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.40:374][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_MeshEmitWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.40:376][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Water\M_MeshEmitWater_MASTER.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameterCube) ParamCube> Found NULL, requires TextureCube
+
+[2022.12.18-01.23.41:322][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Snow\M_Snow_Blowing_Unlit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2022.12.18-01.23.41:324][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Snow\M_Snow_Blowing_Unlit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2022.12.18-01.23.41:325][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Effects\Materials\Snow\M_Snow_Blowing_Unlit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+
+[2022.12.18-01.23.41:344][961]LogMaterial: Warning: [AssetLog] C:\GitHub\ComputerGraphics\EnvironmentProject\Content\Assets\SoulCave\Environment\Materials\Water\M_smallstream1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Total job queries 3245, among them cache hits 379 (11.68%)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Tracking 2862 distinct input hashes that result in 869 distinct outputs (30.36%)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: RAM used: 19.56 MB (0.02 GB) of 1228.80 MB (1.20 GB) budget. Usage: 1.59%
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Shaders Compiled: 605
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Jobs assigned 605, completed 605 (100.00%)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Average time worker was idle: 131.88 s
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Time job spent in pending queue: average 3.54 s, longest 17.45 s
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Job execution time: average 4.66 s, max 13.84 s
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Job life time (pending + execution): average 8.20 s, max 18.18
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.71 s
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Jobs were issued in 306 batches (only local compilation was used), average 1.98 jobs/batch
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Average processing rate: 6.90 jobs/sec
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Total thread time: 554.41 s
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Total thread preprocess time: 24.83 s
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Percentage time preprocessing: 4.48%
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Effective parallelization: 6.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 2.04 sec, max 2.24 sec, min 1.86 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 1.82 sec, max 2.25 sec, min 0.86 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.66 sec, max 1.98 sec, min 0.82 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.57 sec, max 2.31 sec, min 0.72 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    9 times, average 1.55 sec, max 2.28 sec, min 0.81 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:                                               FHWRasterizePS - 10.88% of total time (compiled   84 times, average 0.72 sec, max 1.18 sec, min 0.31 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.21% of total time (compiled   52 times, average 0.88 sec, max 1.94 sec, min 0.55 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 7.70% of total time (compiled   42 times, average 1.02 sec, max 1.85 sec, min 0.68 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.61% of total time (compiled   40 times, average 0.92 sec, max 2.06 sec, min 0.61 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.11% of total time (compiled   38 times, average 0.74 sec, max 0.86 sec, min 0.59 sec)
+[2022.12.18-01.25.22:614][961]LogShaderCompilers: Display: ================================================
+[2022.12.18-01.25.22:751][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.18-01.25.22:783][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.12.18-01.25.22:812][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.18-01.25.25:947][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.12.18-01.25.25:950][176]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Dungeon' took 0.033
+[2022.12.18-01.25.25:951][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02] ([1] browsable assets)...
+[2022.12.18-01.25.25:975][176]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02.M_Soul_Waterfall_Foam02]
+[2022.12.18-01.25.25:975][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02]
+[2022.12.18-01.25.25:982][176]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Auto4
+[2022.12.18-01.25.25:982][176]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/M_Soul_Waterfall_Foam02_Auto4D783DD5445A62111E26FD18E5B73B6F6.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Auto4.uasset'
+[2022.12.18-01.25.25:983][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile] ([1] browsable assets)...
+[2022.12.18-01.25.25:990][176]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile.M_Soul_Waterfall_Foam02_Mobile]
+[2022.12.18-01.25.25:990][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile]
+[2022.12.18-01.25.25:997][176]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile_Auto4
+[2022.12.18-01.25.25:997][176]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/M_Soul_Waterfall_Foam02_Mobile_A4CB8C0474C4B8EE9FB06BEBC231E7487.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile_Auto4.uasset'
+[2022.12.18-01.25.25:997][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask] ([1] browsable assets)...
+[2022.12.18-01.25.26:004][176]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask.M_Soul_Waterfall_Foam_Mask]
+[2022.12.18-01.25.26:004][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask]
+[2022.12.18-01.25.26:011][176]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask_Auto4
+[2022.12.18-01.25.26:011][176]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/M_Soul_Waterfall_Foam_Mask_Auto42CEB286E40C5BF0E365163B4A1AB72B5.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/Autosaves/Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask_Auto4.uasset'
+[2022.12.18-01.25.26:012][176]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.12.18-01.25.46:181][714]LogSlate: Window 'Content Browser' being destroyed
+[2022.12.18-01.25.47:420][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.18-01.25.50:978][837]LogSlate: Window 'Save Content' being destroyed
+[2022.12.18-01.25.50:983][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.18-01.25.51:039][837]LogSavePackage: Moving output files for package: /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02
+[2022.12.18-01.25.51:040][837]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/M_Soul_Waterfall_Foam027A4BA0D14C438212C39C7392D4BC201A.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02.uasset'
+[2022.12.18-01.25.51:047][837]LogSavePackage: Moving output files for package: /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile
+[2022.12.18-01.25.51:047][837]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/M_Soul_Waterfall_Foam02_MobileC120F0FB476FA728F70956863EE8EFA4.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile.uasset'
+[2022.12.18-01.25.51:055][837]LogSavePackage: Moving output files for package: /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask
+[2022.12.18-01.25.51:055][837]LogSavePackage: Moving '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Saved/M_Soul_Waterfall_Foam_Mask4AEFB90A4E46DE2B553A73B116147A18.tmp' to '../../../../../../GitHub/ComputerGraphics/EnvironmentProject/Content/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask.uasset'
+[2022.12.18-01.25.51:086][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 22.1 sec)
+[2022.12.18-01.25.51:105][837]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.18-01.25.51:105][837]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02.M_Soul_Waterfall_Foam02
+[2022.12.18-01.25.51:105][837]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam02_Mobile.M_Soul_Waterfall_Foam02_Mobile
+[2022.12.18-01.25.51:105][837]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/SoulCave/Environment/Materials/Water/M_Soul_Waterfall_Foam_Mask.M_Soul_Waterfall_Foam_Mask
