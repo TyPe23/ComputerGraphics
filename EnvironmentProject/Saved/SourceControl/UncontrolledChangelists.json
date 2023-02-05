@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/ComputerGraphics/EnvironmentProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/GitHub/ComputerGraphics/EnvironmentProject/Content/Maps/Woods.umap",
 				"E:/GitHub/GraphicsProject/ComputerGraphics/EnvironmentProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"E:/GitHub/GraphicsProject/ComputerGraphics/EnvironmentProject/Content/Maps/Woods.umap",
 				"E:/GitHub/GraphicsProject/ComputerGraphics/EnvironmentProject/Content/Assets/PATH/uploads_files_2726644_stone_path.uasset",
